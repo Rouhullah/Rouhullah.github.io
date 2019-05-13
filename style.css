@@ -1,0 +1,131 @@
+body {
+	font-family : arial;
+	margin : 0px;
+}
+		/* etape 3 */
+a {
+	color : #FFF;
+}
+
+.secondary-block {
+	color : #FFF;
+	/*background-color : #2cd681;*/
+	background-image: linear-gradient(to right, #2cd681, #137f47);
+}
+
+nav {
+	height : 70px;
+}
+
+nav h2 {
+	padding : 20px 0 20px 15px;
+	margin : 0;
+	float : left;
+}
+
+nav ul {
+	margin : 0;
+	list-style : none;
+	float : left;
+	padding : 24px;
+}
+
+nav li {
+	float : left;
+	margin-left : 15px;
+}
+		/* etape 5 */
+.content {
+	max-width : 800px;
+	margin : 0 auto;
+}
+
+header {
+	text-align: center;
+	padding : 40px;
+}
+
+header h2 {
+	color : #24b56c;
+	letter-spacing: 5px;
+}
+
+header img {
+	width : 150px;
+	height : 150px;
+    border-radius : 75px;
+    box-shadow : 3px 3px 6px #AAA;	
+}
+
+.content h3{
+	text-align: center;
+	letter-spacing: 5px;
+}
+		/* etape 7 */
+
+
+header {
+	padding : 40px;
+}
+		/*Etap 9*/
+#xp ul {
+	margin : 0px;
+	padding : 0px;
+	list-style : none;
+}
+
+#xp li {
+	margin-bottom : 10px;
+}
+
+#xp aside {
+	float : right;
+}
+		/*etape 12*/
+#education ul {
+	list-style: none;
+    padding: 0;
+	margin: 0;	
+}		
+
+#education li {
+	margin-bottom: 10px;
+}
+
+#education aside {
+	float: right;
+}
+		/*etape 13*/
+footer {
+	padding: 40px;
+}		
+
+footer ul {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+footer .links {
+	margin-bottom: 25px;
+	width: 390px;
+	display: inline-block;
+}
+
+section {
+	padding: 40px;
+}
+
+#passions h3, .green-title {
+	color : #24b56c;
+	letter-spacing: 5px;
+}
+
+.container-inline {
+	display: inline-block;
+	width:49%;
+}
+
+		
+
+
